@@ -85,4 +85,4 @@ B.S. Mechanical Engineering
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/pattyolowry/) · [GitHub](https://github.com/pattyolowry)
+[LinkedIn](https://www.linkedin.com/in/pattyolowry/)
