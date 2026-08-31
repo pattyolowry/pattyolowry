@@ -78,7 +78,6 @@ My previous experiences have shaped how I approach software engineering today: I
 
 **University of Florida**  
 B.S. Computer Science — Expected December 2027  
-GPA: 4.0 · Phi Kappa Phi 
 
 **California Polytechnic State University, San Luis Obispo**  
 B.S. Mechanical Engineering  
