@@ -1,8 +1,8 @@
 # Hi, I'm Patrick 👋
 
-I'm a Computer Science student at the University of Florida pursuing software engineering roles, with a previous background in technical program and project management at MongoDB and Yext.
+I'm a Computer Science student at the University of Florida, with a previous background in technical program and project management at MongoDB and Yext.
 
-I enjoy building backend systems, full-stack applications, and performance-focused software. I'm especially interested in problems involving distributed systems, infrastructure, scalability, and backend engineering.
+I enjoy building backend systems, full-stack applications, and performance-focused software. I'm especially interested in problems involving distributed systems, scalability, and backend engineering.
 
 Currently seeking Software Engineering internships for Summer 2027.
 
