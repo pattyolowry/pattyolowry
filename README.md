@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of Florida, with a previous bac
 
 I enjoy building backend systems, full-stack applications, and performance-focused software. I'm especially interested in problems involving distributed systems, scalability, and backend engineering.
 
-Currently seeking Software Engineering internships for Summer 2027.
+Currently seeking a Software Engineering internship for Summer 2027.
 
 ## Featured Projects
 
